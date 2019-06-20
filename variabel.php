@@ -1,5 +1,5 @@
 <?php
-	$teks = "Hello Word";
+	$teks = "helloo";
 
 echo $teks;
 
